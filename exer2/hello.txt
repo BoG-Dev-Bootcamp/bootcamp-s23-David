@@ -1,0 +1,4 @@
+Hello!
+I used vim hello.txt to create
+Pressed i to enter text
+and ZZ to save and quit.
